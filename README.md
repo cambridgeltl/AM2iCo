@@ -1,6 +1,6 @@
-# AMiCo 
+# AM2iCo 
 
-In this work, we present AMiCo, a wide-coverage and carefully designed cross-lingual and multilingual evaluation set; it aims to assess the ability of state-of-the-art representation models to reason over cross-lingual lexical-level concept alignment in context for 14 language pairs. Compared to related tasks such as [WiC](https://pilehvar.github.io/wic/) and [XL-WiC](https://pilehvar.github.io/xlwic/), our dataset offers
+In this work, we present AM2iCo, a wide-coverage and carefully designed cross-lingual and multilingual evaluation set; it aims to assess the ability of state-of-the-art representation models to reason over cross-lingual lexical-level concept alignment in context for 14 language pairs. Compared to related tasks such as [WiC](https://pilehvar.github.io/wic/) and [XL-WiC](https://pilehvar.github.io/xlwic/), our dataset offers
 
 1. wide coverage of **diverse languages** and unique words
 2. higher quality with **higher human performance** (around 90\%, compared with 80\% in WiC and XL-WiC)
